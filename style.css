@@ -1,0 +1,15 @@
+.list {
+    background-color: green;
+    width: 55px;
+    margin: 2px;
+    color: white;
+}
+
+#main {
+    align-items: center;
+    left: 50%;
+    right: 50%;
+    /* background-color: red; */
+    text-align: center;
+    
+}
